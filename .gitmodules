@@ -3,3 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "forestat"]
+	path = forestat
+	url = https://github.com/caf-ifrit/forestat
+	shallow = true
+	subdir = forestat
+	registered = true
